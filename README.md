@@ -17,6 +17,6 @@ Scraper is a telegram group scraper tool to fetch all information about group me
 
 ![Scrape list](http://dl4.joxi.net/drive/2024/05/08/0038/4026/2551738/38/fa933fc1c9.jpg)
 
-any questions about scraper or telegram tools you can ask in telegram @KayCoder 
+any questions about scraper or telegram tools you can ask in telegram [https://t.me/kaycoder](@KayCoder) #
 
-and subscribe to our channel @TGadsPrime
+and subscribe to our 📢 channel [https://t.me/TGadsPrime](@TGadsPrime)
