@@ -1,5 +1,5 @@
 # Telegram Scraper Users
-Scraper members is a telegram group scraper tool to fetch all information about group members. Not using telegram api. Noob friendly
+Telegram Scraper is a Telegram Messenger group scraper tool to fetch all information about group members. Not using telegram api. Easy to use user friendly software.
 
 Using this Telegram scraper you can collect target users from selected telegram group and save in .csv file, then you can add this users or sending personal messages or any another promotion.
 
@@ -18,7 +18,7 @@ Using this Telegram scraper you can collect target users from selected telegram 
 
 ✅ Not need Python
 
-✅ Scrape name, surname, status telegram premium, id, last activity
+✅  Scrape firstname, lastname, username, status telegram premium, id, last activity, chat_id
 
 ✅ Saves in .csv table
 
